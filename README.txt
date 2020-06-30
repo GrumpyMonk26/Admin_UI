@@ -1,7 +1,6 @@
-echo "# Admin_UI" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/GrumpyMonk26/Admin_UI.git
-git push -u origin master
+# Admin UI
+
+this is a mock up of a admin control pannel, 
+there is no backend to this project as of yet.
+the backend is something i want to add in time
  
